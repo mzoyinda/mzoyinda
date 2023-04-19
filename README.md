@@ -1,4 +1,4 @@
-<!-- <img src="https://user-images.githubusercontent.com/8265e9b-49a58-agugy94886.png" alt="Oyinda Logo" /> -->
+<img src="https://github.com/mzoyinda/mzoyinda/blob/8d165ec1f7a11373f9264d571965becf37feb163/assets/banner.gif" alt="Oyinda Logo" /> 
 <h1 align="center">Hi 👋, I'm Oyinda</h1>
 <h3 align="center">Software Engineer 👩🏾‍💻 | Technical Writer 📝 | Community Manager 🧡 | Tech Content Creator ✨</h3>
 
