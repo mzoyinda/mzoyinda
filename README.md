@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://twitter.com/oyindawodu" target="blank"><img src="https://img.shields.io/twitter/follow/oyindawodu?logo=twitter&style=for-the-badge&logo=appveyor" alt="oyinda" width="300px"/></a> </p>
 
-<h1> About Me 🌼 </h1>
+<h2> About Me 🌼 </h2>
 <p align='justify'>I am a Software Developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with React Js.
 
 I build websites with beautiful pixels, while following the dry principle hence, writing clean and accessible codes.
@@ -15,7 +15,7 @@ I'm the Technical Writer who uses story telling to break down software principle
 I am also a Gender Advocate dedicated to bridging the gap of women-in-tech</p>
 
 
-<h1> Latest Blog Posts 🔖</h1>
+<h2> Latest Blog Posts 🔖</h2>
 <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"  width="150px" />
 <ul>
   <li><a href="https://community-chimoney.hashnode.dev/getting-started-with-chimoneys-api-chiconnect" target="blank">Getting started with Chimoney's API - ChiConnect</a></li>
@@ -25,7 +25,7 @@ I am also a Gender Advocate dedicated to bridging the gap of women-in-tech</p>
 Simple Explanation of Javascript Scopes (Global Scope and Local Scope)</a></li>
 </ul>
 
-<h1 align="left">Technologies ⚡ </h1>
+<h2 align="left">Technologies ⚡ </h2>
 
 <h3>Frontend</h3>
 
@@ -49,7 +49,7 @@ Simple Explanation of Javascript Scopes (Global Scope and Local Scope)</a></li>
 ![MongoDB](https://img.shields.io/badge/MongoDB-3776AB?style=for-the-badge&logo=mongoDB&logoColor=white)
 
 
-# Connect with me 📭
+## Connect with me 📭
 <div align="center">
 <a href="http://github.com/mzoyinda" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
