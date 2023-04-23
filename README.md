@@ -5,14 +5,13 @@
 <p align="center"> <a href="https://twitter.com/oyindawodu" target="blank"><img src="https://img.shields.io/twitter/follow/oyindawodu?logo=twitter&style=for-the-badge&logo=appveyor" alt="oyinda" width="300px"/></a> </p>
 
 <h2> About Me 🌼 </h2>
-<p align='justify'>I am a Software Developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with React Js.
+<p align='justify'>I am a Software Developer with industry experience building websites and web applications using JavaScript and it's frameworks.
 
 I build websites with beautiful pixels, while following the dry principle hence, writing clean and accessible codes.
 
 I'm the Technical Writer who uses story telling to break down software principles
 
-
-I am also a Gender Advocate dedicated to bridging the gap of women-in-tech</p>
+I am also a Community buider dedicated to fostering collaboration, promoting inclusivity, and driving positive change within tech focused communities</p>
 
 
 <h2> Latest Blog Posts 🔖</h2>
