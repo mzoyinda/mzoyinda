@@ -10,6 +10,8 @@
 I design and develop scalable software solutions, writing clean and accessible codes.
 
 I'm the Technical Writer who uses story telling to break down software principles
+ 
+I'm the open source advocate, actively involved in contributing to various open source projects, making meaningful impacts and helping to improve the quality and accessibility of software solutions for the wider community.
 
 I am also a Community buider dedicated to fostering collaboration, promoting inclusivity, and driving positive change within tech focused communities</p>
 
