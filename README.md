@@ -7,7 +7,7 @@
 <h2> About Me 🌼 </h2>
 <p align='justify'>I am a Software Developer with industry experience building websites and web applications using JavaScript and it's frameworks.
 
-I build websites with beautiful pixels, while following the dry principle hence, writing clean and accessible codes.
+I design and develop scalable software solutions, writing clean and accessible codes.
 
 I'm the Technical Writer who uses story telling to break down software principles
 
