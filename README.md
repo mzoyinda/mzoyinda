@@ -1,6 +1,6 @@
 <img src="https://github.com/mzoyinda/mzoyinda/blob/8d165ec1f7a11373f9264d571965becf37feb163/assets/banner.gif" alt="Oyinda Logo" /> 
 <h1 align="center">Hi 👋, I'm Oyinda</h1>
-<h3 align="center">Software Engineer 👩🏾‍💻 | Technical Writer 📝 | Community Manager 🧡 | Tech Content Creator ✨</h3>
+<h3 align="center">Software Engineer 👩🏾‍💻 | Technical Writer 📝 | Open Source Advocate ✨ | Community Manager 🧡 </h3>
 
 <p align="center"> <a href="https://twitter.com/oyindawodu" target="blank"><img src="https://img.shields.io/twitter/follow/oyindawodu?logo=twitter&style=for-the-badge&logo=appveyor" alt="oyinda" width="300px"/></a> </p>
 
