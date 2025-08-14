@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Oyinda</h1>
 <h3 align="center">Software Engineer 👩🏾‍💻 | Technical Writer 📝 | Open Source Advocate ✨ | Community Builder 🧡 </h3>
 
-<p align="center"> <a href="https://twitter.com/ssimplyoyin" target="blank"><img src="https://img.shields.io/twitter/follow/ssimplyoyin?logo=twitter&style=for-the-badge&logo=appveyor" alt="oyinda" width="300px"/></a> </p>
+<p align="center"> <a href="https://twitter.com/ssimplyoyin" target="blank"><img src="https://img.shields.io/twitter/follow/oyin-dawodu?logo=twitter&style=for-the-badge&logo=appveyor" alt="oyinda" width="300px"/></a> </p>
 
 <h2> About Me 🌼 </h2>
 
